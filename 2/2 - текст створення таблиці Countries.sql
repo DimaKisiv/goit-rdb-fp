@@ -1,0 +1,5 @@
+CREATE TABLE Country (
+    CountryID INT PRIMARY KEY AUTO_INCREMENT,
+    Entity VARCHAR(255) NOT NULL,
+    Code varchar(10) NOT NULL
+);
