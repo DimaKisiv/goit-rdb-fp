@@ -1,1 +1,1 @@
-SELECT count(*) FROM `pandemic`.`country`;
+SELECT count(*) FROM `country`;
